@@ -21,6 +21,7 @@ Pokud chcete přidat nový nebo odebrat starý nepoužívaný kanál, tak může
 1. `#gorolia` - Kanál pro Třinec a okolí
 1. `#lysa` - Kanál pro obyvatele Lysé nad Labem
 1. `#mladaboleslav` - Kanál pro Mladou Boleslav a okolí
+1. `#jizak` - Lokální témata a srazy v Praze Jižním městě
 1. `#czech` - Kanál používaný během testování EU Narrow presetu
 1. `#english` - Primárně útočiště lokálních česky zatím nehovořících
 1. `#freebeer` - 🍻🍻🍻🍻

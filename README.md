@@ -29,6 +29,7 @@ Pokud chcete přidat nový nebo odebrat starý nepoužívaný kanál, tak může
 1. `#test` - Kanál pro testy s AI (příkazy: „ping“, „@mention na EL pong“ a * další)
 1. `#chat` - Kanál pro chat…
 1. `#tech` - Kanál pro diskuze o HW/SW
+1. `#reticulum` - Kanál pro diskuze o projektu [Reticulum](https://github.com/markqvist/Reticulum)
 1. `#hamradio` - Kanál pro radioamatéry
 1. `#bitcoin` - Kanál pro bitcoinery
 1. `#zdravice` - Kanál pro pozdravy

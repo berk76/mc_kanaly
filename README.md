@@ -30,6 +30,7 @@ Pokud chcete přidat nový nebo odebrat starý nepoužívaný kanál, tak může
 1. `#chat` - Kanál pro chat…
 1. `#tech` - Kanál pro diskuze o HW/SW
 1. `#hamradio` - Kanál pro radioamatéry
+1. `#bitcoin` - Kanál pro bitcoinery
 1. `#zdravice` - Kanál pro pozdravy
 1. `#zpovednice` - Kanál pro přiznání nekalostí
 1. `#sports` - Kanál pro sportovní fanoušky

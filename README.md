@@ -11,6 +11,7 @@ Pokud chcete přidat nový nebo odebrat starý nepoužívaný kanál, tak může
 1. `#brno` - Kanál pro Brno a okolí 
 1. `#hradeckralove` - Kanál pro Hradec Králové
 1. `#eldorado` - Kanál pro Náchod, prý =)
+1. `#aussig` - Kanál pro Ústí nad Labem a okolí
 1. `#sudety` - Kanál pro Sudety a okolí
 1. `#plzen` - Kanál pro Plzeňsko a okolí
 1. `#ostrava` - Kanál pro Ostravu a okolí !!!

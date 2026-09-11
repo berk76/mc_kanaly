@@ -7,6 +7,7 @@ Pokud chcete přidat nový nebo odebrat starý nepoužívaný kanál, tak může
 ## Seznam kanálů
 
 1. `#newbies` - Kanál pro nováčky, kde mohou zkušenější poradit, primárně pro oficiální firmware a aplikace
+2. `#meshcore` - Kanál pro koordinaci Meshcore v CZ, jako MC alternativa k TG skupině a fóru
 1. `#praha` - Kanál pro Prahu a okolí
 1. `#brno` - Kanál pro Brno a okolí 
 1. `#hradeckralove` - Kanál pro Hradec Králové

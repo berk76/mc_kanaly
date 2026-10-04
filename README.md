@@ -41,3 +41,4 @@ Pokud chcete přidat nový nebo odebrat starý nepoužívaný kanál, tak může
 1. `#emergency` - Kanál POUZE pro nouzové situace a hlášení případných hrozeb
 1. `#chess` - Kanál pro hledání soupeře pro korespondenční šachy přes MC, využívá se webový client s companionem připojeným přes USB/BLE
 1. `#cs` - Kanál, který propojuje zahraniční mesh přes Slovensko - jde jen o textovou komunikaci v channelu, tedy bez DM's, advertů apod. 
+1. `#linuxdays` - Kanál pro komunikaci mezi účastníky konference [LinuxDays](https://www.linuxdays.cz/). 

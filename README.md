@@ -44,3 +44,4 @@ Pokud chcete přidat nový nebo odebrat starý nepoužívaný kanál, tak může
 1. `#linuxdays` - Kanál pro komunikaci mezi účastníky konference [LinuxDays](https://www.linuxdays.cz/). 
 1. `#regiony` - Kanál pro diskuzi o nastavení a testování regionů. 
 1. `#preppers` - Kanál, který se věnuje [prepperství](https://rozpad.cz/).
+1. `#doprava` - Dopravní varování.
